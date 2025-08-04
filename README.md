@@ -17,13 +17,13 @@ The main goal of this site is to make a suttle and focused  platform so that the
 Clone the project
 
 ```bash
-  git clone https://github.com/Pa04rth/Eceweb
+https://github.com/Harsh22428/Eceweb.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd ece
 ```
 
 Install dependencies
